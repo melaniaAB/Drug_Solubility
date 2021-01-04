@@ -4,7 +4,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Drug solubility](#link)
+* [Drug solubility](#Link)
 * [Packages and approaches](#R)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -32,7 +32,8 @@ rdkit, sklearn, pandas, numpy,matplotlib,
         % mean_squared_error(Y_train, Y_pred_train))
     print('Coefficient of determination (R^2): %.2f'
         % r2_score(Y_train, Y_pred_train))
- 
+        
+ ![model prediction](./plot_horizontal_comp.png) 
   
 ## Status
 Project is completed.
