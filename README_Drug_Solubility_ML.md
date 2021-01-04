@@ -4,7 +4,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Drug solubility](#Drug solubility)
+* [Drug solubility](#drug solubility)
 * [Packages and approaches](#R)
 * [Status](#status)
 * [Inspiration](#inspiration)
