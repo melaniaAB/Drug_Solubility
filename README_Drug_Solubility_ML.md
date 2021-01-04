@@ -4,7 +4,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Drug solubility](#Drug solubility)
+* [Drug solubility]
 * [Packages and approaches](#R)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -16,7 +16,7 @@ Drug solubility has an important physicochemical role in Drug discovery, design 
 ## Drug solubility
 More than 40% of new drug-like molecules are not water soluable. Solubility is still a challenge for optimization of molecules. Drugs must be present in the form of solution at the site of absorption.
 
-[Drug solubility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3399483/#:~:text=More%20than%2040%25%20NCEs%20(new,at%20the%20site%20of%20absorption.)
+[Drug solubility](https://www.hindawi.com/journals/isrn/2012/195727/)
 
 
 ## Packages and approaches
