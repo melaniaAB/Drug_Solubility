@@ -4,7 +4,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Diabetes](#image)
+* [Drug solubility](#Drug Solubility Importance)
 * [Packages and approaches](#R)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -17,6 +17,7 @@ Drug solubility has an important physicochemical role in Drug discovery, design 
 More than 40% of new drug-like molecules are not water soluable. Solubility is still a challenge for optimization of molecules. Drugs must be present in the form of solution at the site of absorption.
 
 [Drug Solubility Importance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3399483/#:~:text=More%20than%2040%25%20NCEs%20(new,at%20the%20site%20of%20absorption.)
+
 
 ## Packages and approaches
 rdkit, sklearn, pandas, numpy,matplotlib,
