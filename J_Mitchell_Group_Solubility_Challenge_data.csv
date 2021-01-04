@@ -1,0 +1,123 @@
+Name,New Chosen SMILES (SC training set),Source for New Chosen SMILES
+Acebutolol,O=C(Nc1ccc(OCC(O)CNC(C)C)c(c1)C(=O)C)CCC,ChemSpider
+Amoxicillin,O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccc(O)cc1)N)[C@H]3SC2(C)C,ChemSpider
+Bendroflumethiazide,FC(F)(F)c3c(cc1c(NC(NS1(=O)=O)Cc2ccccc2)c3)S(=O)(=O)N,ChemSpider
+Benzocaine,O=C(OCC)c1ccc(N)cc1,ChemSpider
+Benzthiazide,O=S(=O)(c1c(Cl)cc2c(c1)S(=O)(=O)/N=C(\N2)CSCc3ccccc3)N,ChemSpider
+Clozapine,CN1CCN(CC1)C2=Nc3cc(ccc3Nc4c2cccc4)Cl,ChemSpider
+Dibucaine,O=C(c1c2ccccc2nc(OCCCC)c1)NCCN(CC)CC,ChemSpider
+Diethylstilbestrol,Oc2ccc(/C(=C(/c1ccc(O)cc1)CC)CC)cc2,ChemSpider
+Diflunisal,O=C(O)c1cc(ccc1O)c2ccc(F)cc2F,ChemSpider
+Dipyridamole,n3c(nc2c(nc(nc2N1CCCCC1)N(CCO)CCO)c3N4CCCCC4)N(CCO)CCO,ChemSpider
+Folic Acid,c1cc(ccc1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCc2cnc3c(n2)c(=O)nc([nH]3)N,ChemSpider
+Furosemide,O=S(=O)(N)c1c(Cl)cc(c(C(=O)O)c1)NCc2occc2,ChemSpider
+Hydrochlorothiazide,O=S(=O)(c1c(Cl)cc2c(c1)S(=O)(=O)NCN2)N,ChemSpider
+Imipramine,c1cc3c(cc1)CCc2c(cccc2)N3CCCN(C)C,ChemSpider
+Indomethacin,Cc1c(c2cc(ccc2n1C(=O)c3ccc(cc3)Cl)OC)CC(=O)O,ChemSpider
+Ketoprofen,CC(c1cccc(c1)C(=O)c2ccccc2)C(=O)O,ChemSpider
+Lidocaine,O=C(Nc1c(cccc1C)C)CN(CC)CC,ChemSpider
+Meclofenamic acid,Clc2ccc(c(Cl)c2Nc1ccccc1C(=O)O)C,ChemSpider
+Naphthoic acid,c1ccc2c(c1)cccc2C(=O)O,ChemSpider
+Probenecid,O=S(=O)(N(CCC)CCC)c1ccc(C(=O)O)cc1,ChemSpider
+Pyrimethamine,Clc2ccc(c1c(nc(nc1CC)N)N)cc2,ChemSpider
+Salicylic acid,c1ccc(c(c1)C(=O)O)O,ChemSpider
+Sulfamerazine,O=S(=O)(Nc1nc(ccn1)C)c2ccc(N)cc2,ChemSpider
+Sulfamethizole,O=S(=O)(Nc1nnc(s1)C)c2ccc(N)cc2,ChemSpider
+Terfenadine,OC(c1ccccc1)(c2ccccc2)C4CCN(CCCC(O)c3ccc(cc3)C(C)(C)C)CC4,ChemSpider
+Thiabendazole,n2c1c(cccc1)nc2c3ncsc3,ChemSpider
+Tolbutamide,O=S(=O)(c1ccc(cc1)C)NC(=O)NCCCC,ChemSpider
+Trazodone,Clc4cccc(N3CCN(CCCN1/N=C2/C=C\C=C/N2C1=O)CC3)c4,ChemSpider
+1-naphthol,Oc2cccc1ccccc12,ChemSpider
+2-amino-5-bromobenzoic acid,Brc1cc(C(=O)O)c(N)cc1,ChemSpider
+4-iodophenol,c1cc(ccc1O)I,ChemSpider
+5-bromo-2-4-dihydroxybenzoic acid,Brc1cc(c(O)cc1O)C(=O)O,ChemSpider
+acetaminophen,CC(=O)Nc1ccc(cc1)O,ChemSpider
+acetazolamide,O=S(=O)(c1nnc(s1)NC(=O)C)N,ChemSpider
+alprenolol,O(c1ccccc1C\C=C)CC(O)CNC(C)C,ChemSpider
+amantadine,C1C2CC3CC1CC(C2)(C3)N,ChemSpider
+amiodarone,Ic1cc(cc(I)c1OCCN(CC)CC)C(=O)c2c3ccccc3oc2CCCC,ChemSpider
+amitriptyline,c3cc2c(/C(c1c(cccc1)CC2)=C\CCN(C)C)cc3,ChemSpider
+amodiaquine,Clc1cc2nccc(c2cc1)Nc3cc(c(O)cc3)CN(CC)CC,ChemSpider
+atropine,CN3[C@H]1CC[C@@H]3C[C@@H](C1)OC(=O)C(CO)c2ccccc2,ChemSpider
+azathioprine,[O-][N+](=O)c3ncn(c3Sc1ncnc2ncnc12)C,ChemSpider
+benzylimidazole,n1ccn(c1)Cc2ccccc2,ChemSpider
+5-bromogramine,Brc1cc2c(CN(C)C)c[nH]c2cc1,Solubility Challenge
+bupivacaine,O=C(Nc1c(cccc1C)C)C2N(CCCC)CCCC2,ChemSpider
+carprofen,O=C(O)C(c3ccc2c1cc(Cl)ccc1nc2c3)C,ChemSpider
+carvedilol,O(c4ccccc4OCCNCC(O)COc3cccc2c3c1c(cccc1)n2)C,ChemSpider
+cephalothin,O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)Cc3sccc3)COC(=O)C)C(=O)O,ChemSpider
+chlorpheniramine,Clc1ccc(cc1)C(c2ncccc2)CCN(C)C,ChemSpider
+chlorpromazine,CN(C)CCCN1c2ccccc2Sc3c1cc(cc3)Cl,ChemSpider
+chlorpropamide,O=S(=O)(c1ccc(Cl)cc1)NC(=O)NCCC,ChemSpider
+chlorprothixene,Clc2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN(C)C,ChemSpider
+chlorzoxazone,Clc2cc1c(OC(=O)N1)cc2,ChemSpider
+cimetidine,Cc1c(nc[nH]1)CSCCN\C(=N\C)NC#N,Solubility Challenge
+ciprofloxacin,c1c2c(cc(c1F)N3CCNCC3)n(cc(c2=O)C(=O)O)C4CC4,ChemSpider
+danofloxacin,O=C(O)\C4=C\N(c3cc(N1C[C@H]2N(C)C[C@@H]1C2)c(F)cc3C4=O)C5CC5,ChemSpider
+deprenyl,C#CCN([C@@H](Cc1ccccc1)C)C,ChemSpider
+desipramine,c1cc3c(cc1)CCc2c(cccc2)N3CCCNC,ChemSpider
+diazoxide,Clc1ccc2c(c1)S(=O)(=O)/N=C(\N2)C,ChemSpider
+diclofenac,c1ccc(c(c1)CC(=O)O)Nc2c(cccc2Cl)Cl,ChemSpider
+difloxacin,Fc1ccc(cc1)N\3c2cc(c(F)cc2C(=O)C(/C(=O)O)=C/3)N4CCN(C)CC4,ChemSpider
+diltiazem,O=C2N(c3c(S[C@@H](c1ccc(OC)cc1)[C@H]2OC(=O)C)cccc3)CCN(C)C,ChemSpider
+diphenydramine,O(CCN(C)C)C(c1ccccc1)c2ccccc2,ChemSpider
+"5,5-diphenylhydantoin",O=C2NC(=O)NC2(c1ccccc1)c3ccccc3,ChemSpider
+enrofloxacin,O=C(O)\C3=C\N(c2cc(N1CCN(CC)CC1)c(F)cc2C3=O)C4CC4,ChemSpider
+famotidine,O=S(=O)(N=C(N)CCSCc1nc(/N=C(/N)N)sc1)N,ChemSpider
+fenoprofen,O=C(O)C(c2cc(Oc1ccccc1)ccc2)C,ChemSpider
+flufenamic acid,FC(F)(F)c1cc(ccc1)Nc2ccccc2C(=O)O,ChemSpider
+flumequine,Fc2cc1C(=O)/C(C(=O)O)=C\N3c1c(c2)CCC3C,ChemSpider
+flurbiprofen,Fc2cc(ccc2c1ccccc1)C(C(=O)O)C,ChemSpider
+glipizide,O=C(c1ncc(nc1)C)NCCc2ccc(cc2)S(=O)(=O)NC(=O)NC3CCCCC3,ChemSpider
+guanine,c1[nH]c2c(n1)c(=O)[nH]c(n2)N,ChemSpider
+hexobarbital,O=C1N(C(=O)NC(=O)C1(/C2=C/CCCC2)C)C,ChemSpider
+hydroflumethiazide,FC(F)(F)c2c(cc1c(NCNS1(=O)=O)c2)S(=O)(=O)N,ChemSpider
+4-hydroxybenzoic acid,c1cc(ccc1C(=O)O)O,ChemSpider
+ibuprofen,CC(C)Cc1ccc(cc1)C(C)C(=O)O,ChemSpider
+lomefloxacin,Fc1c(c(F)c2c(c1)C(=O)C(\C(=O)O)=C/N2CC)N3CC(NCC3)C,ChemSpider
+loperamide,Clc1ccc(cc1)C4(O)CCN(CCC(c2ccccc2)(c3ccccc3)C(=O)N(C)C)CC4,ChemSpider
+maprotiline,c1ccc3c(c1)C4c2ccccc2C3(CC4)CCCNC,ChemSpider
+meclizine,Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)Cc4cccc(c4)C,ChemSpider
+mefenamic acid,O=C(O)c2c(Nc1cccc(c1C)C)cccc2,ChemSpider
+metoclopramide,Clc1cc(c(OC)cc1N)C(=O)NCCN(CC)CC,ChemSpider
+metronidazole,[O-][N+](=O)c1cnc(n1CCO)C,ChemSpider
+miconazole,c1cc(c(cc1Cl)Cl)COC(Cn2ccnc2)c3ccc(cc3Cl)Cl,ChemSpider
+nalidixic acid,O=C\2c1c(nc(cc1)C)N(/C=C/2C(=O)O)CC,ChemSpider
+naloxone,O=C4[C@@H]5Oc1c2c(ccc1O)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C\C=C,ChemSpider
+naproxen,C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O,ChemSpider
+niflumic acid,FC(F)(F)c1cc(ccc1)Nc2ncccc2C(=O)O,ChemSpider
+nitrofurantoin,O=[N+]([O-])c2oc(/C=N/N1C(=O)NC(=O)C1)cc2,ChemSpider
+norfloxacin,O=C(O)\C2=C\N(c1cc(c(F)cc1C2=O)N3CCNCC3)CC,ChemSpider
+nortriptyline,c3cc2c(/C(c1c(cccc1)CC2)=C/CCNC)cc3,ChemSpider
+ofloxacin,Fc4cc1c2N(/C=C(\C1=O)C(=O)O)C(COc2c4N3CCN(C)CC3)C,ChemSpider
+oxytetracycline,CN(C)[C@@H]3C(\O)=C(\C(N)=O)C(=O)[C@@]4(O)C(/O)=C2/C(=O)c1c(cccc1O)[C@@](C)(O)[C@H]2[C@H](O)[C@@H]34,ChemSpider
+papaverine,COc1ccc(cc1OC)Cc2c3cc(c(cc3ccn2)OC)OC,ChemSpider
+phenanthroline,c1cc2ccc3cccnc3c2nc1,ChemSpider
+phenazopyridine,N(=N/c1ccc(nc1N)N)\c2ccccc2,ChemSpider
+phenobarbital,C1(NC(C(c2ccccc2)(C(=O)N1)CC)=O)=O,Solubility Challenge
+phenylbutazone,O=C2N(c1ccccc1)N(C(=O)C2CCCC)c3ccccc3,ChemSpider
+phthalic acid,c1ccc(c(c1)C(=O)O)C(=O)O,ChemSpider
+pindolol,CC(C)NCC(O)COc1cccc2[nH]ccc12,Solubility Challenge
+piroxicam,CN1C(=C(c2ccccc2S1(=O)=O)O)/C(=N/c3ccccn3)/O,ChemSpider
+procaine,O=C(OCCN(CC)CC)c1ccc(N)cc1,ChemSpider
+propranolol,CC(C)NCC(COc1cccc2c1cccc2)O,ChemSpider
+quinine,O(c4cc1c(nccc1[C@@H](O)[C@H]2N3CC[C@@H](C2)[C@@H](/C=C)C3)cc4)C,ChemSpider
+ranitidine,[O-][N+](=O)C=C(NC)NCCSCc1oc(cc1)CN(C)C,ChemSpider
+sarafloxacin,Fc1ccc(cc1)N\3c2cc(c(F)cc2C(=O)C(/C(=O)O)=C/3)N4CCNCC4,ChemSpider
+sertraline,Clc1ccc(cc1Cl)[C@H]3c2c(cccc2)[C@@H](NC)CC3,ChemSpider
+sparfloxacin,C[C@@H]1CN(C[C@@H](N1)C)c2c(c(c3c(c2F)n(cc(c3=O)C(=O)O)C4CC4)N)F,ChemSpider
+sulfacetamide,O=S(=O)(c1ccc(N)cc1)NC(=O)C,ChemSpider
+sulfamethazine,O=S(=O)(Nc1nc(cc(n1)C)C)c2ccc(N)cc2,ChemSpider
+sulfasalazine,O=S(=O)(Nc1ccccn1)c3ccc(/N=N/c2cc(C(O)=O)c(O)cc2)cc3,ChemSpider
+sulfathiazole,O=S(=O)(Nc1nccs1)c2ccc(N)cc2,ChemSpider
+sulindac,O=S(c1ccc(cc1)\C=C3/c2ccc(F)cc2\C(=C3C)CC(=O)O)C,ChemSpider
+tetracaine,O=C(OCCN(C)C)c1ccc(NCCCC)cc1,ChemSpider
+tetracycline,C[C@]1(c2cccc(c2C(=O)C3=C([C@]4([C@@H](C[C@@H]31)[C@@H](C(=C(C4=O)C(=O)N)O)N(C)C)O)O)O)O,ChemSpider
+thymol,CC(C)c1ccc(C)cc1O,ChemSpider
+tolmetin,O=C(c1ccc(n1C)CC(=O)O)c2ccc(cc2)C,ChemSpider
+trichloromethiazide,O=S(=O)(c1c(Cl)cc2c(c1)S(=O)(=O)NC(N2)C(Cl)Cl)N,ChemSpider
+trimethoprim,COc1cc(cc(c1OC)OC)Cc2cnc(nc2N)N,ChemSpider
+trimipramine,c1cc3c(cc1)CCc2c(cccc2)N3CC(C)CN(C)C,ChemSpider
+tryptamine,c1ccc2c(c1)c(c[nH]2)CCN,ChemSpider
+verapamil,N#CC(c1cc(OC)c(OC)cc1)(CCCN(CCc2ccc(OC)c(OC)c2)C)C(C)C,ChemSpider
+warfarin,CC(=O)CC(C\1=C(/O)c2ccccc2OC/1=O)c3ccccc3,ChemSpider
